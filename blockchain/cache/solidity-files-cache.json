@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\New folder\\url-shortener\\blockchain\\contracts\\URLRegistry.sol": {
+      "lastModificationDate": 1752603070303,
+      "contentHash": "a75affd72cacbd5dd89ca61446eb4073",
+      "sourceName": "contracts/URLRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "URLRegistry"
+      ]
+    }
+  }
+}
